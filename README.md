@@ -1,4 +1,4 @@
-# maptrail
+# Mapboc for flutter
 
 A new Flutter project.
 
