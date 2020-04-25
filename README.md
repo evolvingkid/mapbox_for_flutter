@@ -1,4 +1,4 @@
-# Mapboc for flutter
+# Mapbox for flutter
 
 A new Flutter project.
 
